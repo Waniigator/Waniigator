@@ -19,7 +19,7 @@
   </p>
 
   <br>
- <hr>
+
   <!-- Emoticon Showcase Bar -->
   <div align="center">
     <img src="happy.png" width="44" height="44" alt="happy">
@@ -41,6 +41,6 @@
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Create GitHub README
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add custom banner
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add task list
-- 🔲![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square) Edit repository
+- 🔲 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square) Edit repository
           
     
