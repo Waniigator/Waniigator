@@ -41,6 +41,7 @@
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Create GitHub README
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add custom banner
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add task list
+- ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add task picture/gif
 - 🔲 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square) Edit repository
           
     
