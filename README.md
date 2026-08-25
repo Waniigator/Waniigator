@@ -1,4 +1,4 @@
-
+<hr>
 <div align="center">
 
   <!-- Circular GIF Avatar -->
@@ -19,9 +19,9 @@
   </p>
 
   <br>
-
+ <hr>
   <!-- Emoticon Showcase Bar -->
-  <div align="left">
+  <div align="center">
     <img src="happy.png" width="44" height="44" alt="happy">
     <img src="doll.png" width="37" height="37" alt="doll">
     <img src="sleep.png" width="44" height="44" alt="sleep">
@@ -31,3 +31,16 @@
   </div>
 
 </div>
+<hr>
+
+<div align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=2000&color=B39DDB&center=true&vCenter=true&width=165&height=50&lines=List" alt="List" align="absleft" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=2000&color=A5D6A7&center=true&vCenter=true&width=150&height=50&lines=To+Do" alt="To+Do" align="absleft" />
+  </div>
+  
+- ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Create GitHub README
+- ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add custom banner
+- ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Add task list
+- 🔲![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square) Edit repository
+          
+    
