@@ -34,8 +34,8 @@
 <hr>
 
 <div align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=2100&color=B39DDB&center=true&vCenter=true&width=165&height=50&lines=List" alt="List" align="absleft" />
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=2100&color=A5D6A7&center=true&vCenter=true&width=150&height=50&lines=To+Do" alt="To+Do" align="absleft" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=2050&color=B39DDB&center=true&vCenter=true&width=165&height=50&lines=List" alt="List" align="absleft" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=2050&color=A5D6A7&center=true&vCenter=true&width=150&height=50&lines=To+Do" alt="To+Do" align="absleft" />
   </div>
   
 - ✅ ![Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square) Create GitHub README
