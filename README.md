@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Circular GIF Avatar -->
-  <img src="cute.gif" width="180" height="180" align="right" alt="Wanii">
+  <img src="cute.gif" width="180" height="180" align="center" alt="Wanii">
 
   <br><br>
 
