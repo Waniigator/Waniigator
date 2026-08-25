@@ -1,12 +1,13 @@
+
 <div align="center">
 
   <!-- Circular GIF Avatar -->
-  <img src="cute.gif" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #b39ddb;" alt="Wanii">
+  <img src="cute.gif" width="180" height="180" align="right" alt="Wanii">
 
   <br><br>
 
   <!-- Dual-Color Cozy Handwritten Header (SVG) -->
-<div>
+<div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=165&height=50&lines=Greetings!" alt="Greetings!" align="absmiddle" />
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=1000&color=A5D6A7&center=true&vCenter=true&width=150&height=50&lines=I'm+Wanii" alt="I'm Wanii" align="absmiddle" />
   </div>
@@ -21,7 +22,7 @@
   <br>
 
   <!-- Emoticon Showcase Bar -->
-  <div>
+  <div align="left">
     <img src="happy.png" width="44" height="44" alt="happy">
     <img src="doll.png" width="37" height="37" alt="doll">
     <img src="sleep.png" width="44" height="44" alt="sleep">
