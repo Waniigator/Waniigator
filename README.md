@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Waniigator/Waniigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Circular GIF Avatar -->
+  <img src="cute.gif" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #b39ddb;" alt="Wanii">
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Dual-Color Cozy Handwritten Header (SVG) -->
+<div>
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=165&height=50&lines=Greetings!" alt="Greetings!" align="absmiddle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=36&duration=3000&pause=1000&color=A5D6A7&center=true&vCenter=true&width=150&height=50&lines=I'm+Wanii" alt="I'm Wanii" align="absmiddle" />
+  </div>
+
+  <!-- Cozy Subtitle -->
+<p>
+    <img src="happy.png" width="24" height="24" align="absmiddle" alt="happy">
+    <i>A student on a journey to find mine own path.</i> 
+    <img src="doll.png" width="24" height="24" align="absmiddle" alt="doll">
+  </p>
+
+  <br>
+
+  <!-- Emoticon Showcase Bar -->
+  <div>
+    <img src="happy.png" width="44" height="30" alt="happy">
+    <img src="doll.png" width="32" height="40" alt="doll">
+    <img src="sleep.png" width="40" height="37" alt="sleep">
+    <img src="wince.png" width="32" height="43" alt="wince">
+    <img src="sad.png" width="44" height="35" alt="sad">
+    <img src="mad.png" width="37" height="32" alt="mad">
+  </div>
+
+</div>
