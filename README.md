@@ -22,12 +22,12 @@
 
   <!-- Emoticon Showcase Bar -->
   <div>
-    <img src="happy.png" width="44" height="30" alt="happy">
-    <img src="doll.png" width="32" height="40" alt="doll">
-    <img src="sleep.png" width="40" height="37" alt="sleep">
-    <img src="wince.png" width="32" height="43" alt="wince">
-    <img src="sad.png" width="44" height="35" alt="sad">
-    <img src="mad.png" width="37" height="32" alt="mad">
+    <img src="happy.png" width="44" height="44" alt="happy">
+    <img src="doll.png" width="37" height="37" alt="doll">
+    <img src="sleep.png" width="44" height="44" alt="sleep">
+    <img src="wince.png" width="37" height="37" alt="wince">
+    <img src="sad.png" width="44" height="44" alt="sad">
+    <img src="mad.png" width="37" height="37" alt="mad">
   </div>
 
 </div>
