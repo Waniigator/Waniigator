@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Circular GIF Avatar -->
-  <img src="cute.gif" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #b39ddb;" alt="Wanii">
+  <img src="cute.gif" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #b39ddb;" alt="Wanii">
 
   <br><br>
 
